@@ -1,5 +1,5 @@
 {
-	"file": "https://dl.dropboxusercontent.com/u/36962787/UpSet/signatures_patients.csv",
+	"file": "https://raw.githubusercontent.com/abraytee/SigModels/master/signatures_patients.csv",
 	"name": "Patients using different signatures",
 	"header": 0,
 	"separator": ",",
