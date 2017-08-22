@@ -6,8 +6,8 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Patient" },
-        { "type": "string", "index": 8, "name": "eln_risk" },
-        { "type": "string", "index": 9, "name": "gender" },	
+        { "type": "integer", "index": 8, "name": "eln_risk" },
+        { "type": "integer", "index": 9, "name": "gender" },	
         { "type": "integer", "index": 10, "name": "age" },	
         { "type": "float", "index": 11, "name": "wbc" }		
 	],
