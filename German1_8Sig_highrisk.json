@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/abraytee/SigModels/master/signatures_patients_TCGA_Array_8Sig_lowrisk.csv",
+	"file": "https://raw.githubusercontent.com/abraytee/SigModels/master/German1_8Sig_highrisk.csv",
 	"name": "Patients using different signatures",
 	"header": 0,
 	"separator": ",",
